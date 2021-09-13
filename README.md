@@ -1,5 +1,5 @@
 # Communication Protocols & Interfaces
-This repository includes different projects that show my coding skills for microcontroller programming. The projects go from using the microcontroller's ports to output a binary counter to creating a complex Point Of sale by communicating two microcontrollers as Master-Slave. All the projects are coded using C language and Microchip CCS PIC Compiler. 
+This repository includes different projects that show my coding skills for microcontroller programming. The projects go from using the microcontroller's ports to output a binary counter to creating a complex Point Of sale by communicating two microcontrollers as Master-Slave. All the projects are coded using C language and Microchip CCS PIC Compiler using the PIC18F4550 microcontroller. 
 
 Most of the projects use a PCB designed by myself which include many different embedded systems to start interacting with the microcontroller. Some of the included components are:
 * 1 - 4x20 LCD Display
@@ -8,6 +8,7 @@ Most of the projects use a PCB designed by myself which include many different e
 * 1 - RS232 Communication Port
 
 With the following Schematic
+
 ![User Interface Board Schematic](UserInterfaceBoardSchematic.png)
 
 Some projects that include Master-Slave or USB Communication use another board for these purposes. Because of Copyright conflicts I am not able to display many information about this board but some of the features it included are:
